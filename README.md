@@ -57,13 +57,13 @@ The Radar Range Equation is a key relationship used in radar system design to de
     Rmax_Pm = ((Pt_const .* Gt_const.^2 .* lambda.^2 .* sigma) ./ ((4*%pi)^3 .* Pm_vals)).^(1/4);   
 
     subplot(3,1,1);
-    plot(Pt_vals, Rmax_Pt, 'r', 'LineWidth', 2);
+    plot(Pt_vals, Rmax_Pt, 'b', 'LineWidth', 2);
 
     subplot(3,1,2);
-    plot(Gt_vals, Rmax_Gt, 'g', 'LineWidth', 2);
+    plot(Gt_vals, Rmax_Gt, 'r', 'LineWidth', 2);
 
     subplot(3,1,3);
-    plot(Pm_vals, Rmax_Pm, 'b', 'LineWidth', 2);
+    plot(Pm_vals, Rmax_Pm, 'g', 'LineWidth', 2);
 
 ## Output Waveform
 <img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/032ae53f-31ff-4b43-874d-d0512f81022c" />
