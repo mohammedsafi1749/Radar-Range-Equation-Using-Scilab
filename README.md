@@ -69,7 +69,7 @@ The Radar Range Equation is a key relationship used in radar system design to de
 <img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/032ae53f-31ff-4b43-874d-d0512f81022c" />
 
 ## Tabulation
-<img width="749" height="1280" alt="image" src="https://github.com/user-attachments/assets/c563cf52-5e7c-49a4-92b5-77579143abea" />
+![WhatsApp Image 2025-11-02 at 15 33 19_aedeb91b](https://github.com/user-attachments/assets/fc240ced-6e10-414b-bf38-4d7774b15b5f)
 
 ## Result
 Thus, the maximum range of a radar system using the Radar Range Equation is verified through a Python
