@@ -1,4 +1,4 @@
-# Radar-Range-Equation-Using-Scilab
+# EXP NO: 10 Radar-Range-Equation-Using-Scilab
 ## Evaluation of Radar Range Using Scilab
 
 ## Aim
